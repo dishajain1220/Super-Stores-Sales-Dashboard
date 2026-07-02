@@ -6,7 +6,7 @@ This project presents a detailed **Sales Dashboard** built using Power BI, drive
  [Click here to view the demo](https://drive.google.com/file/d/19FggIUR4ZrjsNcfxBAKaSP-V9KehM02u/view?usp=drive_link)  
 *The video opens directly in Google Drive and provides a full walkthrough of the dashboard visuals and insights.*
 
-![Super Store Sales Dashboard Screenshot](./super%20sales%20dashboard%20img.png)
+![Super Store Sales Dashboard Screenshot](https://drive.google.com/file/d/1gEehZbOQB4MXsv732NVxp0FxW-TZuqSu/view?usp=drive_link)
 
 ---
 
