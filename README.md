@@ -3,7 +3,7 @@
 This project presents a detailed **Sales Dashboard** built using Power BI, driven by a retail Super Store dataset. The dashboard provides a comprehensive overview of business performance metrics like sales, profit, customer behavior, product category performance, regional sales analysis, and more — all in one interactive view.
 
  **Watch Full Walkthrough Video**  
- [Click here to view the demo]([https://drive.google.com/file/d/1HENCx-bB-yQoKfjmjXBCM_Y5lja8duM3/view?usp=drive_link](https://drive.google.com/file/d/19FggIUR4ZrjsNcfxBAKaSP-V9KehM02u/view?usp=drive_link))  
+ [Click here to view the demo]([https://drive.google.com/file/d/1HENCx-bB-yQoKfjmjXBCM_Y5lja8duM3/view?usp=drive_link]  
 *The video opens directly in Google Drive and provides a full walkthrough of the dashboard visuals and insights.*
 
 ![Super Store Sales Dashboard Screenshot](./super%20sales%20dashboard%20img.png)
